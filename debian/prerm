@@ -8,5 +8,5 @@ if [ "$1" = "remove" ] || [ "$1" = "deconfigure" ]; then
     # Remove vendor logos alternative, all slaves get removed automatically
     update-alternatives --remove \
             vendor-logos \
-            /usr/share/desktop-base/vanilla-logos
+            /usr/share/desktop-base/singularity-logos
 fi

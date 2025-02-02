@@ -1,18 +1,18 @@
 Source: desktop-base
 Section: x11
 Priority: optional
-Maintainer: Vanilla OS Contributors <info@vanillaos.org>
+Maintainer: Singularity OS Contributors <info@singularityos.org>
 Build-Depends: debhelper (>= 13),
                librsvg2-bin,
                optipng
 
 Rules-Requires-Root: no
 Standards-Version: 4.6.2
-Homepage: https://github.com/Vanilla-OS/desktop-base
-Vcs-Browser: https://github.com/Vanilla-OS/desktop-base
-Vcs-Git: https://github.com/Vanilla-OS/desktop-base.git
+Homepage: https://github.com/singularityos-lab/desktop-base
+Vcs-Browser: https://github.com/singularityos-lab/desktop-base
+Vcs-Git: https://github.com/singularityos-lab/desktop-base.git
 Package: desktop-base
 Architecture: all
 Depends: librsvg2-common
 Suggests: gnome
-Description: common files for the Vanilla OS GNOME
+Description: common files for the Singularity OS GNOME

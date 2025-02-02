@@ -6,6 +6,6 @@ desktop-base (100.1) unstable; urgency=medium
 
 desktop-base (100.0) unstable; urgency=medium
 
-  * First version of the Vanilla OS desktop-base package
+  * First version of the Singularity OS desktop-base package
 
  -- Mirko Brombin <send@mirko.pm>  Thu, 09 Aug 2023 14:32:00 +0300
